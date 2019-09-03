@@ -1,0 +1,3 @@
+.idea
+docker/db/mysql_data/*
+public_html/diary/img/*
